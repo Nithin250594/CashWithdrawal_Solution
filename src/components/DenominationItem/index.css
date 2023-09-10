@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.list-buttons {
+  list-style-type: none;
+}
+
+.button-style {
+  width: 200px;
+  height: 40px;
+  border: 1px #c4c4c4 solid;
+  border-radius: 5px;
+  background-color: #382f5a;
+  font-size: 28px;
+  color: #c4c4c4;
+  cursor: pointer;
+  margin-bottom: 20px;
+  margin-right: 5px;
+}

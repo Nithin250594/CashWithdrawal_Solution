@@ -1,0 +1,102 @@
+/* Write your CSS here */
+.cashwithdrawl-bg {
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cash-withdrawl-container {
+  background-color: #150b3e;
+  background-size: cover;
+  border-radius: 15px;
+  height: 550px;
+  width: 520px;
+  padding: 50px;
+}
+
+.profile-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.logo-style {
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  font-size: 12px;
+  font-weight: 'Roboto';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.person-title {
+  font-size: 21px;
+  font-weight: 400;
+  color: #c4c4c4;
+  font-family: 'Roboto';
+  padding-top: 10px;
+  margin-left: 20px;
+}
+.balance-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.balance-title {
+  color: #585076;
+  font-size: 23px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.balance-amount {
+  color: #c4c4c4;
+  font-size: 29px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.balance-in-rupees {
+  color: #585076;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  margin-top: 0px;
+}
+
+.in-ruppes-box {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.withdraw {
+  color: #c4c4c4;
+  font-size: 26px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+
+.choose-amount {
+  color: #585076;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.button-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
